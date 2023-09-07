@@ -1,5 +1,4 @@
 'use strict';
-
 {
     let nameProduct = 'Открытки';
     let quantityProduct = 35;
